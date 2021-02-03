@@ -1,0 +1,17 @@
+{
+  "name": "TestRailAPISolution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testrail-wrapper.js",
+  "scripts": {
+    "test:wrapper": "node testrail-wrapper.js",
+    "test:test": "node testrail-test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "request": "^2.88.2",
+    "testrail-api": "^1.3.6"
+  }
+}
